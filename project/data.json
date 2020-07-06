@@ -1,0 +1,45 @@
+{
+	"details":{
+		"name":"puneeth",
+		"email":"kundananampuneethkrishna@gmail.com",
+		"number":"9182250280",
+		"address":"tirupati"
+},
+	"careerobjective":{
+		"info":"to become software developer"
+	},
+	"educationalqualification":[
+{
+	"institute":"sri venkateshwara uniersity",
+	"degree":"B.tech",
+	"passoutyear":"2021",
+	"percentage":"75%"
+},
+{
+"institute":"sri chaitanya junior college",
+"degree":"Intermediate",
+"passoutyear":"2017",
+"percentage":"96%"
+},
+{
+	"institute":"kesava reddy concept school",
+	"degree":"ssc",
+	"passoutyear":"2015",
+	"percentage":"75%"
+}
+   ],
+
+	"technicalskills":[{
+		"title":"programming language",
+		"info":["c,c++,java,python"]
+	},
+	{
+		"title":"Databases",
+	    "info":["oracle,sql,mysql"]
+	},
+	{
+		"title":"Operating System",
+		"info":["windows,linux,ubuntu,DOS"]
+	}
+]
+}
