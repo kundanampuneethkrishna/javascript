@@ -48,7 +48,7 @@ function basic(det){
 	child1.appendChild(image);
 
 	var name = document.createElement("h4");
-	name.textcontent=det.name;
+	name.textContent=det.name;
 	child1.appendChild(name);
 
 	var email = document.createElement("a");
